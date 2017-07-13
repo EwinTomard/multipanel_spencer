@@ -1,0 +1,37 @@
+    body {
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0;
+    background-color: #222223;
+}
+#wrapper {
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0;
+    background: repeat;
+    background-color: #222223;
+}
+
+#headerpic {
+    background-image: url("header_img.jpg");
+    width: 99%;
+    height: 288px;
+    margin-left: 0px;
+    font-family: Consolas;
+    font-size: 18px;
+    color: white;
+    padding-left: 20px;
+}
+
+#headertitles{
+    background-color: white;
+    width: 99%;
+    height: 100px;
+    margin-left: 0px;
+    padding-left: 20px;
+}
+
